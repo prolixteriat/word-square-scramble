@@ -1,12 +1,2 @@
-**/node_modules
-**/dist
-**/tsconfig.tsbuildinfo
-.DS_STORE
-.yarn/*
-!.yarn/patches
-!.yarn/plugins
-!.yarn/releases
-!.yarn/sdks
-!.yarn/versions
+*.url
 
-*.log
